@@ -1,0 +1,11 @@
+# LinkedIn Automated Comment Templates
+# Add your custom comment templates here, one per line.
+# Lines starting with # and empty lines will be ignored.
+
+Great insights! Thanks for sharing this perspective. 👏
+Very informative post. Really appreciate the detailed breakdown! 🚀
+Great progress and execution! Keep up the fantastic work.
+Impressive achievements! Wishing you continued success.
+Very thought-provoking share. Thanks for adding value to the feed!
+Inspiring update! Best of luck with the next milestones.
+Superb work! Looking forward to seeing where this project heads next.

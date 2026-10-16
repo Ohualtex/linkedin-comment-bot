@@ -1,0 +1,29 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Project specific data
+session_data/
+*.sqlite
+*.db
+*.log
+.env
+
+# Playwright & Browser artifacts
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+
+# OS / Editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
